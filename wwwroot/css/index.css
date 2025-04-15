@@ -1,0 +1,29 @@
+#imgLogo {
+    height: 70px;
+}
+
+.navbar-nav {
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar {
+    background-color: white !important;
+
+}
+
+.nav-link {
+    font-weight: bold !important;
+}
+
+main {
+    padding-top: 10px;
+}
+
+.carousel {
+    box-shadow: rgba(250, 145, 75) 0px 10px;
+}
+
+.promoContainer {
+    
+}
